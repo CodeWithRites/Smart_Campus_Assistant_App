@@ -17,7 +17,7 @@ The app is role-based and provides different features depending on the user type
 
 ## 👥 User Roles & Features
  ## 🔑 Admin Module
-- Admin has full control over campus data.
+Admin has full control over campus data.
 - Upload class timetable
 - Upload previous year question papers (PYQ)
 - Manage campus events
@@ -34,7 +34,7 @@ Students can easily access all academic and event-related information.
 - Receive and view event reminders
 
 ## 👨‍🏫 Faculty Module
-- Faculty members can view important academic and contact information.
+Faculty members can view important academic and contact information.
 - View student timetable
 - View teacher timetable
 - View CR (Class Representative) contact details
